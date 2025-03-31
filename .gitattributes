@@ -1,0 +1,2 @@
+ios/Runner/MyModel.mlmodel filter=lfs diff=lfs merge=lfs -text
+*.mlmodel filter=lfs diff=lfs merge=lfs -text
